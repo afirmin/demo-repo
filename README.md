@@ -10,3 +10,7 @@ Watch tutorial on YouTube.
 
 1. Open index.html in your browser.
 
+## Updated
+
+Added a new index-new.html
+But need to get it into github.
