@@ -12,9 +12,10 @@ Watch tutorial on YouTube.
 
 ## Updated
 
-Added a new index-new.html
+Added a new index-new.html .
+
 But need to get it into github.
-now added a hello.c file
-and a hello cobol file
-and finally a hello java file that was 
-supposed to be a ruby file but I failed.
+
+Now added a hello.c file.
+
+Finally added extra lines.
