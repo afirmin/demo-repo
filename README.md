@@ -12,6 +12,10 @@ Watch tutorial on YouTube.
 
 ## Updated
 
-Added a new index-new.html
+Added a new index-new.html .
+
 But need to get it into github.
-now added a hello.c file
+
+Now added a hello.c file.
+
+Finally added extra lines.
